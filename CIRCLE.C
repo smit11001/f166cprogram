@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+const float j=3.14;
+int r;
+float area;
+clrscr();
+	    printf("value of %f",j);
+	    scanf("%d",&r);
+	    area=j*r*r;
+	    printf("area of circle is %f",area);
+ getch();
+ }
