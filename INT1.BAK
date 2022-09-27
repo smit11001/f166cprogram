@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int no;
+clrscr();
+       printf("enter any number");
+       scanf("%d",&no);
+       printf("You have entered number is %d",no);
+getch();
+}
